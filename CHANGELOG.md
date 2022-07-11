@@ -1,3 +1,6 @@
+## 0.0.5
+* addLog变更
+
 ## 0.0.3
 * [Android] prevent `add log` before `create`
 ## 0.0.2
